@@ -5,6 +5,12 @@
 > :warning: It will run all possible programs of all possible lengths, without stopping.
 > :warning: This includes programs that will crash your computer, delete your files and (might!) create a simulated replica of our entire universe.
 
+**Paper** 
+
+Pieri, Lorenzo. 2024. “A Universal Dovetailer Implementation.” OSF Preprints. November 25. doi:10.31219/osf.io/nphg2.
+
+https://doi.org/10.31219/osf.io/nphg2
+
 ## Installation 
 
 
